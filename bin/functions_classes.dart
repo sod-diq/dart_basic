@@ -9,10 +9,11 @@ void main() {
   print(squareResult);
 
 }
+//the code add two number
 int sum (int a, int b){
   return a + b;
 }
-
+  // this code calculate square of parameter
 int calCulateThePeremeterOfASquare(int side) {
     return 4 * side;
   }
